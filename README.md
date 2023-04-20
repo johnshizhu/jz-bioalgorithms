@@ -1,4 +1,7 @@
 # Bioalgorithms Work
+### Language 
+[![My Skills](https://skills.thijs.gg/icons?i=python)](https://skills.thijs.gg)
+<br>
 The files included here are bioalgorithms/bioinformatic code from a bioalgorithms course at UNC.
 <br><br>
 This includes personal coding as well as functions from class lecture notes.
